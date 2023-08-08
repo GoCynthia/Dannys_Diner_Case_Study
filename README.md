@@ -65,6 +65,7 @@ Each of the following case study questions can be answered using a single SQL st
 | C           	| ramen             	| 3              	|
 
 6. Which item was purchased first by the customer after they became a member?
+   
 | customer_id 	| first_purchased_item 	| first_purchase_date 	|
 |-------------	|----------------------	|---------------------	|
 | A           	| curry                	| 2021-01-07          	|
