@@ -1,6 +1,6 @@
 ### Dannys_Diner_Case_Study <html> <a href="https://8weeksqlchallenge.com/case-study-1/">Danny's Diner</a> </html>
 
-Using data to answer questions about Danny's customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favorite       
+Using data to answer questions about Danny's customers, their visiting patterns, how much money they’ve spent and also which menu items are their favorite       
 Danny has provided you with a sample of his overall customer data due to privacy issues - but he hopes that these examples are enough for you to write fully functioning SQL queries to help him answer his questions!
 
 Danny has shared with you 3 key datasets for this case study:
