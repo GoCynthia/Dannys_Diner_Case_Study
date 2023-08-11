@@ -147,6 +147,7 @@ Each of the following case study questions can be answered using a single SQL st
 #### Note;
 - Data was gotten from   <a href="https://8weeksqlchallenge.com//">Danny's Diner's SQL Challenge</a> </html>
 - It’s recommended to save all of your code in a separate IDE or text editor as you are trying to solve the problems in the provided SQL Fiddle instance.
+- Enjoy the process.
 
   
 
